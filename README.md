@@ -1,6 +1,6 @@
 # Deep-learning-Image-Classifier-Web-Application
 Deep learning Image Classifier Web Application
 
-Technologies used: Python Flask, Tensorflow, HTML, CSS
+Technologies used: Python Flask, Tensorflow, HTML, CSS, Bootstrap
 
-Open .pdf for project explanation
+Open Results.pdf for project explanation
